@@ -55,5 +55,6 @@
     <module>web-assets</module>
     <module>xml</module>
     <module>tracing</module>
+    <module>grpc</module>
   </modules>
 </project>
