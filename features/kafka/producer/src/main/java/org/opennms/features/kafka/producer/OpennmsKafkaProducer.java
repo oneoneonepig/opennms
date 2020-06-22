@@ -398,7 +398,7 @@ public class OpennmsKafkaProducer implements AlarmLifecycleListener, EventListen
         }
     }
 
-    private void processKafkaSendQueue() {
+    private void    processKafkaSendQueue() {
         //noinspection InfiniteLoopStatement
         while (true) {
             try {
