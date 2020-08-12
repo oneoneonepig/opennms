@@ -19,7 +19,7 @@ endif::opennms-prime[]
 ifndef::opennms-prime[]
 * Packages are available as _RPMs_ for _RHEL_-based systems and _DEBs_ for _Debian_-based systems
 endif::opennms-prime[]
-* _{opennms-product-name}_ needs to be installed and communication to the _REST (8980/tcp)_ and _ActiveMQ (616161/tcp)_ endpoints is possible
+* _{opennms-product-name}_ needs to be installed and communication to the _REST (8980/tcp)_ and _ActiveMQ (61616/tcp)_ endpoints is possible
 
 Depending on the installed operating system, the path for _Minion_ is different.
 If the instruction refers to `${MINION_HOME}`, the path is resolved to the following directories:
