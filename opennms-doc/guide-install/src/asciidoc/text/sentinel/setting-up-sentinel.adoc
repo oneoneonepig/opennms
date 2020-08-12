@@ -17,7 +17,7 @@ endif::opennms-prime[]
 ifndef::opennms-prime[]
 * Packages are available as _RPMs_ for _RHEL_-based systems and _DEBs_ for _Debian_-based systems
 endif::opennms-prime[]
-* _{opennms-product-name}_ needs to be installed and communication to the _REST (8980/tcp)_ and _ActiveMQ (616161/tcp)_ endpoints is possible
+* _{opennms-product-name}_ needs to be installed and communication to the _REST (8980/tcp)_ and _ActiveMQ (61616/tcp)_ endpoints is possible
 * At least one _Minion_ needs to be installed and successful communicate with the _{opennms-product-name}_
 
 Depending on the installed operating system, the path for _Sentinel_ is different.
